@@ -1,6 +1,6 @@
 {
   "name": "select-search-autocompletion",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "a simple vue select autocompletion component",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/init-daemon/select-search-widget.git"
+    "url": "git+https://github.com/init-daemon/select-search-autocompletion.git"
   },
   "keywords": [
     "vue-select",
@@ -23,7 +23,7 @@
   "author": "Rxon Indria",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/init-daemon/select-search-widget/issues"
+    "url": "https://github.com/init-daemon/select-search-autocompletion/issues"
   },
-  "homepage": "https://github.com/init-daemon/select-search-widget#readme"
+  "homepage": "https://github.com/init-daemon/select-search-autocompletion#readme"
 }

@@ -1,3 +1,3 @@
-import SelectSearchWidget from './src/SelectSearchWidget.vue';
+import SelectSearchAutocompletion from './src/SelectSearchAutocompletion.vue';
 
-export { SelectSearchWidget };
+export { SelectSearchAutocompletion };

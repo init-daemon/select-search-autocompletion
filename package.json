@@ -1,0 +1,29 @@
+{
+  "name": "select-search-widget",
+  "version": "1.0.0",
+  "description": "a simple vue select widget",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/init-daemon/select-search-widget.git"
+  },
+  "keywords": [
+    "vue-select",
+    "select-widget",
+    "vue",
+    "select-search",
+    "field-select-search",
+    "field-select-search-autocompletion",
+    "autocompletion",
+    "autocomplete"
+  ],
+  "author": "Rxon Indria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/init-daemon/select-search-widget/issues"
+  },
+  "homepage": "https://github.com/init-daemon/select-search-widget#readme"
+}

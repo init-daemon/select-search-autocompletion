@@ -1,6 +1,6 @@
 {
   "name": "select-search-autocompletion",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a simple vue select autocompletion component",
   "main": "index.js",
   "scripts": {
